@@ -1,0 +1,27 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "Electron tutorial by official website.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jravalug/electron-tutorial.git"
+  },
+  "keywords": [
+    "electron",
+    "totorial"
+  ],
+  "author": "Jose Abadia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jravalug/electron-tutorial/issues"
+  },
+  "homepage": "https://github.com/jravalug/electron-tutorial#readme",
+  "devDependencies": {
+    "electron": "^29.1.5"
+  }
+}
